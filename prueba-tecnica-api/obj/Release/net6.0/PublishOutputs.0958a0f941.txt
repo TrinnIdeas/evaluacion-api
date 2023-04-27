@@ -1,0 +1,12 @@
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\prueba-tecnica-api.exe
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\prueba-tecnica-api.dll
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\prueba-tecnica-api.deps.json
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\prueba-tecnica-api.runtimeconfig.json
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\prueba-tecnica-api.pdb
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danw7\source\repos\prueba-tecnica-api\prueba-tecnica-api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
